@@ -7,6 +7,7 @@ import "./styles.css";
  * On cell click pawn should move to respective cell
  *
  */
+//fully added all major functionlaities in working state
 let timer = 0;
 const playbtn = document.querySelector("#play");
 const stopbtn = document.querySelector("#stop");
